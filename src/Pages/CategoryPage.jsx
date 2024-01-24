@@ -1,8 +1,8 @@
 import React from 'react'
-import Header from '../components/Header'
+import Header from '../Components/Header'
 import { useLocation, useNavigate } from 'react-router-dom';
-import Pagination from '../components/Pagination';
-import Blogs from '../components/Blogs';
+import Pagination from '../Components/Pagination';
+import Blogs from '../Components/Blogs';
 
 const CategoryPage = () => {
 
